@@ -1,8 +1,8 @@
-# 📊 Simple Linear Regression
+## 📊 Simple Linear Regression
 
 This notebook demonstrates the use of **Simple Linear Regression** to model the relationship between a single independent variable and a dependent variable. The goal is to predict the dependent variable based on the value of the independent variable.
 
-## 🧠 Key Objectives
+## Key Objectives
 
 - Understand the relationship between two variables.
 - Build a regression model using **scikit-learn**.
